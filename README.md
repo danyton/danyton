@@ -31,29 +31,18 @@
   <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vue" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 </div>
 
 ### Backend
-<div>
-  <img align="center" alt="Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Express" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="Django" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-</div>
+
 
 ### Banco de Dados
-<div>
-  <img align="center" alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+
 
 ### Ferramentas
 <div>
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="VS Code" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
@@ -78,9 +67,9 @@ class Heverton:
         self.nome = "Heverton Freire Barbosa"
         self.titulo = "Desenvolvedor Full Stack"
         self.localizacao = "Brasil 🇧🇷"
-        self.linguagens = ["JavaScript", "Python", "HTML/CSS"]
-        self.frameworks = ["React", "Vue.js", "Node.js", "Django"]
-        self.bancos_dados = ["MongoDB", "PostgreSQL", "MySQL"]
+        self.linguagens = ["JavaScript", "HTML/CSS"]
+        self.frameworks = ["Vue.js",]
+        self.bancos_dados = []
         self.interesses = ["Web Development", "UI/UX", "Open Source"]
         
     def diga_ola(self):
@@ -126,11 +115,7 @@ class Heverton:
 
 ## 🐍 Contribuições
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/danyton/danyton/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/danyton/danyton/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/danyton/danyton/blob/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 ---
 
